@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationnampa.com/sitemap.xml
